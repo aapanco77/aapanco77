@@ -2,7 +2,7 @@
 - 👀 I’m interested in web design and web development
 - 🌱 I’m currently learning Full Stack Python
 - 💞️ I’m looking to collaborate on Web Projects | Frontend
-- 📫 How to reach me ...
+- 📫 You can send me an email to arturoapanco@numandigital.com
 
 <!---
 aapanco77/aapanco77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
